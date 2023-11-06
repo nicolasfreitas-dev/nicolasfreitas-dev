@@ -16,4 +16,4 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div><br>
 
-Sou graduando em Ciências Ambientais pela Universidade Federal do Ceará (UFC), mas foi na área de tecnologia que me encontrei. Por isso, estou estudando e me aperfeiçoando em HTML5, CSS3 e em breve estarei dando início aos estudos de JavaScript, visando entrar no mercado de trabalho como desenvolvedor Front-End.
+Sou graduando em Ciências Ambientais pela Universidade Federal do Ceará (UFC), mas foi na área de tecnologia que me encontrei. Por isso, estou estudando e me aperfeiçoando em HTML5, CSS3 e JavaScript, visando entrar no mercado de trabalho como desenvolvedor Front-End.
