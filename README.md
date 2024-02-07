@@ -4,7 +4,6 @@
 
 [![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasfp51@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasfreitas-dev/)
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolasfreitas__/)
 
 ![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasfreitas-dev&show_icons=true&theme=jolly&locale=pt-br&rank_icon=github&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfreitas-dev&layout=compact&theme=jolly&locale=pt-br)
