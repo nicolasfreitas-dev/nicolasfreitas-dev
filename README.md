@@ -17,13 +17,14 @@
     <img width="50" height="50" align="center" alt="CSS3" src="https://www.svgrepo.com/show/452185/css-3.svg">
     <img width="50" height="50" align="center" alt="JavaScript" src="https://www.svgrepo.com/show/349419/javascript.svg">
     <img width="50" height="50" align="center" alt="GIT" src="https://www.svgrepo.com/show/452210/git.svg">
-    <img width="50" height="50" align="center" alt="React" src="https://www.svgrepo.com/show/303500/react-1-logo.svg">
-    <img width="50" height="50" align="center" alt="Tailwindcss" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
+    
 </div><br>
 
 #### Em breve pretendo dar início aos estudos de:
 
 <div>
+    <img width="50" height="50" align="center" alt="React" src="https://www.svgrepo.com/show/303500/react-1-logo.svg">
+    <img width="50" height="50" align="center" alt="Tailwindcss" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg">
     <img width="50" height="50" align="center" alt="Typescript" src="https://www.svgrepo.com/show/349540/typescript.svg">
     <img width="50" height="50" align="center" alt="Angular" src="https://www.svgrepo.com/show/452156/angular.svg">
     <img width="50" height="50" align="center" alt="Node JS" src="https://www.svgrepo.com/show/452075/node-js.svg">
