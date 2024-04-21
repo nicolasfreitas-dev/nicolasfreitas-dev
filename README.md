@@ -1,8 +1,8 @@
 ### Olá! Me chamo Nicolas Freitas, sou Desenvolvedor Front-End e apaixonado por tecnologia.
 
 <p>
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=nicolasfreitas-dev&show_icons=true&theme=jolly&locale=pt-br&rank_icon=github&hide=contribs" />
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfreitas-dev&layout=compact&theme=jolly&locale=pt-br" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=nicolasfreitas-dev&show_icons=true&theme=jolly&locale=pt-br&rank_icon=github&hide=contribs" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfreitas-dev&layout=compact&theme=jolly&locale=pt-br" />
 </p>
 
 ## Contatos
@@ -16,14 +16,8 @@
 
 ## 💻 Habilidades
 
-#### Atualmente no meu dia a dia estou estudando e utilizando as seguintes tecnologias:
+#### Atualmente estou estudando e utilizando as seguintes tecnologias no meu dia a dia :
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,git" />
-  </a>
-
-#### Em breve pretendo dar início aos estudos de:
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,tailwindcss,angular,nodejs," />
   </a>
