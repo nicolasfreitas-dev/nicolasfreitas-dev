@@ -1,21 +1,18 @@
-## Olá! Me chamo Nicolas Freitas, sou Desenvolvedor Front-End e apaixonado por tecnologia.
+### Olá! Me chamo Nicolas Freitas, sou Desenvolvedor Front-End e apaixonado por tecnologia.
 
-<p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=nicolasfreitas-dev&show_icons=true&theme=jolly&locale=pt-br&rank_icon=github&hide=contribs" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfreitas-dev&layout=compact&theme=jolly&locale=pt-br" />
+<p>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=nicolasfreitas-dev&show_icons=true&theme=jolly&locale=pt-br&rank_icon=github&hide=contribs" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfreitas-dev&layout=compact&theme=jolly&locale=pt-br" />
 </p>
 
 ## Contatos
 
-<div style="display: inline_block">
   <a href="mailto:nicolasfpdev@gmail.com" target="_blank">
-    <img width="40" height="40" src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-    
   <a href="https://www.linkedin.com/in/nicolasfreitas-dev/" target="_blank">
-    <img width="40" height="40" src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</div>
 
 ## 💻 Habilidades
 
