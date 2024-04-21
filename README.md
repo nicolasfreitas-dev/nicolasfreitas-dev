@@ -1,11 +1,11 @@
-### Olá! Me chamo Nicolas Freitas, sou Desenvolvedor Front-End e apaixonado por tecnologia.
+### <p align="center">Olá! Me chamo Nicolas Freitas, sou Desenvolvedor Front-End e apaixonado por tecnologia.</p>
 
-<p>
+<p align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=nicolasfreitas-dev&show_icons=true&theme=jolly&locale=pt-br&rank_icon=github&hide=contribs" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfreitas-dev&layout=compact&theme=jolly&locale=pt-br" />
 </p>
 
-## Contatos
+## 🌐 Contatos
 
   <a href="mailto:nicolasfpdev@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
