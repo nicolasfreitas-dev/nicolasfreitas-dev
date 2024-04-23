@@ -19,5 +19,5 @@
 #### Atualmente estou estudando e utilizando as seguintes tecnologias no meu dia a dia :
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,react,typescript,tailwindcss,sass" />
   </a>
