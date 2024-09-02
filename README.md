@@ -1,4 +1,4 @@
-### <p align="center">Olá! Me chamo Nicolas Freitas e sou Desenvolvedor Front-End.</p>
+### <p align="center">Olá! Me chamo Nicolas Freitas.</p>
 
 <p align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=nicolasfreitas-dev&show_icons=true&theme=jolly&locale=pt-br&rank_icon=github&hide=contribs" />
