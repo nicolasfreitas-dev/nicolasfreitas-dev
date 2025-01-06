@@ -1,4 +1,4 @@
-### <p align="center">Olá! Me chamo Nicolas Freitas, sou desenvolvedor e entusiasta da tecnologia.</p>
+### <p align="center">Olá! Me chamo Nicolas Freitas, sou Desenvolvedor Fullstack e entusiasta da tecnologia.</p>
 
 <p align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=nicolasfreitas-dev&show_icons=true&theme=jolly&locale=pt-br&rank_icon=github&hide=contribs" />
