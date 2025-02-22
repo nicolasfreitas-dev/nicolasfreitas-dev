@@ -17,5 +17,5 @@
 ## 💻 Habilidades
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,react,nodejs,typescript,tailwindcss,sass,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,react,nodejs,typescript,tailwindcss,nextjs,sass,java" />
   </a>
