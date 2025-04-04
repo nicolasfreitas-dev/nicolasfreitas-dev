@@ -16,12 +16,6 @@ Meu nome é **Nicolas Freitas**. Atualmente, moro em **Fortaleza, Ceará** e meu
 - 📚 **Aprendizado Atual:** Bancos de dados relacionais, Cypress e Jest
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (Em andamento)   
 
-## 😎 Curiosidades sobre Mim
-
-- 🎮 Sou apaixonado por jogos e, desde muito novo iniciei no mundo dos MMORPGs, dentre outros gêneros. 
-- 💡 Comecei a programar em **2023** e, desde então, venho me desafiando e aprendendo coisas novas.   
-- 🤗 Acredito no poder da colaboração e estou sempre disposto a ajudar quem busca evoluir na área de tecnologia.   
-
 ## 💻 Tecnologias
 
 <a href="https://skillicons.dev">
