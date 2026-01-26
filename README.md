@@ -19,7 +19,7 @@ Meu nome é **Nicolas Freitas**. Atualmente, moro em **Fortaleza, Ceará** e meu
 ## 💻 Tecnologias
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,react,ts,tailwindcss,nextjs,sass,nodejs,java,mysql,prisma,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,react,ts,tailwindcss,sass,nodejs,nextjs,nest,java,mysql,prisma,postgres,python" />
 </a>
 
 ##
