@@ -4,7 +4,7 @@
 
 ## 🌟 Informações Públicas
 
-Meu nome é **Nicolas Freitas**. Atualmente, moro em **Fortaleza, Ceará** e meu objetivo é atuar como desenvolvedor criando aplicações de qualidade que solucionem problemas reais. 🚀
+Meu nome é **Nicolas**. Atualmente, moro em **Fortaleza** e meu objetivo é atuar como desenvolvedor criando aplicações de qualidade que solucionem problemas reais. 🚀
 
 ## 📝 Informações Detalhadas
 
