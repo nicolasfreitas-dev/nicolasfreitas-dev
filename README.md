@@ -11,9 +11,8 @@ Meu nome é **Nicolas Freitas**. Atualmente, moro em **Fortaleza, Ceará** e meu
 <!-- Coloque suas informações pessoais que você deseja compartilhar -->
 
 - 👤 **Nome:** Nicolas Freitas
-- 🎂 **Idade:** 26
+- 🎂 **Idade:** 27
 - 📍 **Localização:** Fortaleza - Ceará, Brasil   
-- 📚 **Aprendizado Atual:** Bancos de dados relacionais, Nest.js
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (Em andamento)   
 
 ## 💻 Tecnologias
